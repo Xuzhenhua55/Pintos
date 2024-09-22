@@ -1,3 +1,5 @@
+本项目基于个人学习经历打造，该代码库为最终修订版本，如有学习每一个commit需求的同学可以通过下面的邮箱联系我，一切解释权归本人所有
+本人邮箱为xuzhenhua0326@zju.edu.cn
 # Project 1：Threads
 
 ## Mission 1 Alarm Clock
