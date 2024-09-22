@@ -1,0 +1,14 @@
+{
+  "cSpell.words": ["allelem", "cond", "condvar", "sema"],
+  "files.associations": {
+    "process.h": "c",
+    "synch.h": "c",
+    "array": "c",
+    "string_view": "c",
+    "initializer_list": "c",
+    "utility": "c",
+    "filesys.h": "c",
+    "file.h": "c",
+    "cstdlib": "c"
+  }
+}
